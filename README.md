@@ -1,5 +1,5 @@
 <h1 align="center">Tere👋, Ma olen Anri!</h1>
-<h3 align="center">1. Kursuse IT Noorem spetsialist</h3>
+<h3 align="center">1. Kursuse IT noorem spetsialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maidla63&label=Profile%20views&color=0e75b6&style=flat" alt="maidla63" /> </p>
 
