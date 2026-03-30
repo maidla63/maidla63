@@ -9,7 +9,7 @@
 
 - 🌱 Ma hetkel õpin **pHp,Linuxi (Debian,Alma) serverid, Windows serverid.**
 
-- 📫 Mind saab kätte **anri.maidla@gmail.com**
+- 📫 Mind saab kätte **amaidla@hkhk.edu.ee | anri.maidla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
