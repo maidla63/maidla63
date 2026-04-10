@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maidla63" alt="maidla63" /></a> </p>
 
-- 🔭 Ma hetkel töötan [Arduinoga](https://github.com/maidla63/Arduino)
+- 🔭 Ma hetkel töötan Failiserveri kallal
 
 - 🌱 Ma hetkel õpin **pHp,Linuxi (Debian,Alma) serverid, Windows serverid.**
 
