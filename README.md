@@ -6,11 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maidla63" alt="maidla63" /></a> </p>
 
 # 🪷:
-- 🔭 Ma hetkel töötan Failiserveri kallal https://github.com/maidla63/failiserver
 
 - 🌱 Ma hetkel õpin **pHp,Linuxi (Debian,Alma) serverid, Windows serverid.**
 
 - 📫 Mind saab kätte **amaidla@hkhk.edu.ee | anri.maidla@gmail.com**
+
+- 🔭 Lõpetasin oma Failiserveri kallal töötamise https://github.com/maidla63/failiserver
+
+- Alustan uut projekti varsti :)
 
 # 🪷 Connect With Me:
 <p align="left">
