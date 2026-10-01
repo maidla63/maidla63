@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maidla63&label=Profile%20views&color=0e75b6&style=flat" alt="maidla63" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maidla63" alt="maidla63" /></a> </p>
+
+# 🪷:
 - 🔭 Ma hetkel töötan Failiserveri kallal https://github.com/maidla63/failiserver
 
 - 🌱 Ma hetkel õpin **pHp,Linuxi (Debian,Alma) serverid, Windows serverid.**
