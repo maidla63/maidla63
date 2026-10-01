@@ -12,7 +12,7 @@ s
 - 📫 Mind saab kätte **amaidla@hkhk.edu.ee | anri.maidla@gmail.com**
 
 # 🪷 Connect With Me:
-<p align="left"><br/>
+<p align="left">
 <a href="https://instagram.com/mxidlaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mxidlaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kosminisk3558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kosminisk3558" height="30" width="40" /></a>
 </p>
